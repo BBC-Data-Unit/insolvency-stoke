@@ -1,6 +1,6 @@
 # We are Stoke-on-Trent: 'Debt was a circle I could not get out of'
 
-As part of the BBC’s We Are Stoke-on-Trent week we analysed Insolvency Service figures that showed the city had the highest rate of individuals becoming insolvent in England and Wales.
+In September 2019, as part of the BBC's *We Are Stoke-on-Trent* week, we [analysed Insolvency Service figures that showed the city had the highest rate of individuals becoming insolvent in England and Wales](https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-49648109).
 
 ## Get the data
 
